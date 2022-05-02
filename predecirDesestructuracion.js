@@ -20,7 +20,7 @@ const { name: otherName } = employee;
 //Predict the output
 //console.log(name);
 console.log(otherName);
-//prediccion antes de la ejecucion es 
+//prediccion antes de la ejecucion es un error debido a que no se puede acceder a name directamente 
 
 //ejercicio 3
 
